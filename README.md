@@ -7,7 +7,8 @@ Use Visual Studio Code to run the files
 
 
 ## Future Improvements 
-add more styles, such as different color for each, set a background.
+make it more general, by displaying bus routes between any two stations.
+display the time that route is taken.
 
 ## License
 
